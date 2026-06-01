@@ -17,7 +17,16 @@
    category comparisons
    customer analysis
 
-5. Business Recommendations
+5. Excel Dashboard
+   Total Revenue
+   Number of Orders
+   Number of Customers
+   Average Order Value
+   Revenue Trend
+   Category Performance
+   Top Customer Analysis
+
+6. Business Recommendations
    Focus marketing on highest-performing categories.
    Investigate causes of declining categories.
    Improve retention of top customers.
